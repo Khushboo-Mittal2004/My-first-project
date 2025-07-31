@@ -1,4 +1,4 @@
 # My-first-project
 This is my first Git Repository.
 <br/>
-Author-Khushboo
+Author-Khushboo Mittal
